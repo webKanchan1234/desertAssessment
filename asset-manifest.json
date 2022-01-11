@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/desertAssessment/static/css/main.75beebec.css",
+    "main.js": "/desertAssessment/static/js/main.a7f2d41a.js",
+    "static/media/v.mp4": "/desertAssessment/static/media/v.983e4b5c04a815bea728.mp4",
+    "static/media/ecommerce.mp4": "/desertAssessment/static/media/ecommerce.1ef2e9b62a9cf5e0549e.mp4",
+    "static/media/gif4.gif": "/desertAssessment/static/media/gif4.3dd2c285ec8fe7fce2ce.gif",
+    "static/media/gif7.gif": "/desertAssessment/static/media/gif7.b9a03f617efee71eaa39.gif",
+    "static/media/gif6.gif": "/desertAssessment/static/media/gif6.5d188101005e4e9d48ef.gif",
+    "static/media/gif8.gif": "/desertAssessment/static/media/gif8.f958ec03117e7a31bd56.gif",
+    "static/media/gif1.gif": "/desertAssessment/static/media/gif1.0a5ffb9e83bc147e892e.gif",
+    "static/media/gif5.gif": "/desertAssessment/static/media/gif5.2aca73e06fed1dfcbdd6.gif",
+    "static/media/gif3.gif": "/desertAssessment/static/media/gif3.b13a116f63f850f31029.gif",
+    "static/media/gif2.gif": "/desertAssessment/static/media/gif2.1dc10f3e5dff97809ac7.gif",
+    "index.html": "/desertAssessment/index.html",
+    "main.75beebec.css.map": "/desertAssessment/static/css/main.75beebec.css.map",
+    "main.a7f2d41a.js.map": "/desertAssessment/static/js/main.a7f2d41a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75beebec.css",
+    "static/js/main.a7f2d41a.js"
+  ]
+}
